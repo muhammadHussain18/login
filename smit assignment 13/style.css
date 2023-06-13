@@ -5,9 +5,20 @@
     
 }
 
+.text{
+    text-align: center;
+    color: wheat;
+    
+}
+
+.text h1 {
+    font-size: 50px;
+}
 
 .bg{
-    background-color: orange;
+background-image: url(images/images\ \(2\).jpeg);
+background-repeat: no-repeat;
+background-size: cover;
 height: 100vh;
 width: 100%;
 padding-top: 100px;
@@ -24,5 +35,5 @@ padding: 30px;
     margin: 0 auto ;
     border: 1px black solid ;
     border-radius: 20px ;
-background-color: wheat;
+background-color: #92afdb61;
 }
